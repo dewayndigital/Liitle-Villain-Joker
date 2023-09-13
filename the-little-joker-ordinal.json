@@ -1,0 +1,49 @@
+{
+  "id": "the-little-joker-ordinal-1",
+  "meta": {
+    "name": "The Little Joker",
+    "icon": "ipfs://bafybeieglw4kgnyfj2k2krqtgnm24n6zlkuoedi65gzt5sklqwsifbdvhi"
+  },
+  "attributes": [
+    {
+      "trait_type": "CID",
+      "value": "bafybeieglw4kgnyfj2k2krqtgnm24n6zlkuoedi65gzt5sklqwsifbdvhi"
+    },
+    {
+      "trait_type": "IPFS URL",
+      "value": "ipfs://bafybeieglw4kgnyfj2k2krqtgnm24n6zlkuoedi65gzt5sklqwsifbdvhi"
+    },
+    {
+      "trait_type": "Image Link",
+      "value": "https://bafybeigixatg24tmqsekpla4klge57fvkmueyecfgmhco7d3ozqysrys24.ipfs.nftstorage.link/?filename=Little+Villain+Joker.jpg"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Orange Button-Up"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Face Paint",
+      "value": "The Joker"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Little Joker"
+    }
+  ]
+}
